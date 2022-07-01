@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/utkarshgubrelay2000/learning-blockchain/issues"
   },
-  "homepage": "https://github.com/utkarshgubrelay2000/learning-blockchain#readme"
+  "homepage": "https://github.com/utkarshgubrelay2000/learning-blockchain#readme",
+  "dependencies": {
+    "solc": "^0.8.15"
+  }
 }
