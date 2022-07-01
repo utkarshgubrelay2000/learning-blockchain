@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/utkarshgubrelay2000/learning-blockchain#readme",
   "dependencies": {
-    "solc": "^0.8.15"
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.8.15",
+    "web3": "^1.7.4"
   }
 }

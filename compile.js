@@ -22,4 +22,4 @@ var input = {
         }
     }
 }; 
-console.log(JSON.parse(solc.compile(JSON.stringify(input))));
+module.exports=solc.compile(JSON.stringify(input))
